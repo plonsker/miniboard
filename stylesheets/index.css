@@ -1,0 +1,27 @@
+body {
+    height: 400px;
+    margin:0;
+    padding:0;
+    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+    background-color: #A7D1ED;
+    padding: 10px;
+}
+
+#btnGetStories {
+    background-color: #B2B2B2;
+    border-radius: 25px;
+    height:20px;
+    position:relative;
+    margin: -20px -50px -20px -50px;
+    width:100px;
+    top:50%; left:50%;
+    font-weight: bold;
+}
+
+#txtDomain {
+  margin: 20px;
+}
+
+#resultDiv {
+  margin: 10px;
+}
